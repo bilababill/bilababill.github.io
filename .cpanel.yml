@@ -2,16 +2,16 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1659813/public_html/
-    - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R js $DEPLOYPATH
-    - /bin/cp 404.html $DEPLOYPATH
-    - /bin/cp 500.html $DEPLOYPATH
-    - /bin/cp charts.html $DEPLOYPATH
+    # - /bin/cp -R assets $DEPLOYPATH
+    # - /bin/cp -R css $DEPLOYPATH
+    # - /bin/cp -R js $DEPLOYPATH
+    # - /bin/cp 404.html $DEPLOYPATH
+    # - /bin/cp 500.html $DEPLOYPATH
+    # - /bin/cp charts.html $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp layout-sidenav-light.html $DEPLOYPATH
-    - /bin/cp layout-static.html $DEPLOYPATH
-    - /bin/cp login.html $DEPLOYPATH
-    - /bin/cp password.html $DEPLOYPATH
-    - /bin/cp register.html $DEPLOYPATH
-    - /bin/cp tables.html $DEPLOYPATH
+    # - /bin/cp layout-sidenav-light.html $DEPLOYPATH
+    # - /bin/cp layout-static.html $DEPLOYPATH
+    # - /bin/cp login.html $DEPLOYPATH
+    # - /bin/cp password.html $DEPLOYPATH
+    # - /bin/cp register.html $DEPLOYPATH
+    # - /bin/cp tables.html $DEPLOYPATH
