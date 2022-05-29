@@ -5,7 +5,6 @@ deployment:
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
-    - /bin/cp 401.html $DEPLOYPATH
     - /bin/cp 404.html $DEPLOYPATH
     - /bin/cp 500.html $DEPLOYPATH
     - /bin/cp charts.html $DEPLOYPATH
