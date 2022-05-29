@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1659813/public_html/
-    # - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
     # - /bin/cp -R css $DEPLOYPATH
     # - /bin/cp -R js $DEPLOYPATH
     # - /bin/cp 404.html $DEPLOYPATH
